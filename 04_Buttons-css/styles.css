@@ -14,26 +14,25 @@ body{
     margin-right: 12px;
     color:rgb(51, 51, 51);
     font-weight: 400;
+    outline: none;
+    cursor: pointer;
 }
 
 .button.filled{
     background-color: rgb(51, 51, 51);
-    color: #fff;
+    color: white;
 }
 .button.hover {
-    color:#fff;
+    color: white;
 }
 .button.hover:hover{
     
     background-color: green;
-    color:#fff;
+    color: white;
 }
 #transperent{
     color: rgb(51, 51, 51);
 }
 #transperent:hover{
     background-color: lightyellow;
-}
-.button:hover{
-    cursor: pointer;
 }
