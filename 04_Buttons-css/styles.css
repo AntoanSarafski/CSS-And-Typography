@@ -23,8 +23,17 @@ body{
 .button.hover {
     color:#fff;
 }
-.button:hover:hover{
+.button.hover:hover{
     
     background-color: green;
     color:#fff;
+}
+#transperent{
+    color: rgb(51, 51, 51);
+}
+#transperent:hover{
+    background-color: lightyellow;
+}
+.button:hover{
+    cursor: pointer;
 }
