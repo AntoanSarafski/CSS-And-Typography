@@ -1,11 +1,8 @@
-@font-face {
-  font-family: "Montserrat-VariableFont_wght.ttf";
-  src: url("Fonts/Montserrat-VariableFont_wght.ttf");
-}
+@import'https://fonts.googleapis.com/css?family=Montserrat';
 
 body {
-  font-family: "Montserrat-VariableFont_wght.ttf" , "sans-serif";
-  padding: 16px 16px 16px 16px;
+  font-family: Montserrat, sans-serif;
+  padding: 16px;
 }
 th{
     background-color: lightblue;
