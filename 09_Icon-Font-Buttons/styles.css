@@ -10,11 +10,17 @@ a{
     color: #fff;
     border-radius: 5.40px;
     padding: 12.6px 27px;
-    
+    outline: none;
 }
 a:hover{
     color: #eee;
 }
 i{
     padding-right: 5.40px;
+}
+button.green{
+    background-color: green;
+}
+button.orange{
+    background-color: orange;
 }
