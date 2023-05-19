@@ -15,3 +15,10 @@ blockquote{
     border-left: 1px solid rgb(221, 221, 221);
     font-style: italic;
 }
+table{
+    width: 100%;
+}
+table thead{
+    text-align: left;
+    background-color: gray;
+}
