@@ -18,9 +18,17 @@ a:hover{
 i{
     padding-right: 5.40px;
 }
+
 button.green{
     background-color: green;
 }
+
+button.green:hover{
+    
+    background-color: rgb(1, 53, 1);
+    transition: background-color 300ms linear, color 300ms linear;
+}
+
 button.orange{
     background-color: orange;
 }
