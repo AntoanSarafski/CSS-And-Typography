@@ -17,8 +17,12 @@ blockquote{
 }
 table{
     width: 100%;
+    border-collapse: collapse;
 }
 table thead{
     text-align: left;
-    background-color: gray;
+    background-color: lightgray;
+}
+table td{
+    border: 1px solid gray;
 }
