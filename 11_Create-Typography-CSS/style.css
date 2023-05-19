@@ -23,6 +23,19 @@ table thead{
     text-align: left;
     background-color: lightgray;
 }
-table td{
-    border: 1px solid gray;
+table td,
+table th{
+    border: 1px solid lightgray;
+}
+table tbody tr:nth-child(odd){
+    background-color: lightcyan;
+}
+ul{
+    list-style-type: square;
+}
+ul ul{
+    list-style-type: disc;
+}
+ul ul ul{
+    list-style-type: circle;
 }
