@@ -39,3 +39,6 @@ ul ul{
 ul ul ul{
     list-style-type: circle;
 }
+blockquote .author{
+    text-align: right;
+}
